@@ -1,0 +1,1 @@
+Finally learned a new command which is xdg-open fileName.
